@@ -1,0 +1,13 @@
+tipo:Extra:15000:80.0
+tipo:Corriente:20000:120.0
+tipo:Diesel:50000:500.0
+tipo:Power:30000:90.0
+surtidor:Paula:Extra:0.0:Corriente:0.0:Diesel:0.0:Power:0.0
+surtidor:Michelle:Extra:0.0:Corriente:0.0:Diesel:0.0:Power:0.0
+surtidor:Natalia:Extra:0.0:Corriente:0.0:Diesel:0.0:Power:0.0
+surtidor:Paula:Extra:0.0:Corriente:0.0:Diesel:0.0:Power:0.0
+empleado:Michelle:0
+empleado:Ana:0
+empleado:Natalia:0
+empleado:Isabella:0
+empleado:Paula:0
